@@ -27,3 +27,7 @@ func Sleep() string {
 func Play() string {
 	return "The kitten loves to play with her ball of yarn!"
 }
+
+func Eat() string {
+	return "Yum! I love Chicken and Gravy!"
+}
