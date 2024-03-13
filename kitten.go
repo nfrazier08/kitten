@@ -19,3 +19,11 @@ func BigMeow() string {
 func BigMeows() string {
 	return cat.WhenGrownUp(Meows())
 }
+
+func Sleep() string {
+	return "ZzzzZzzzZz"
+}
+
+func Play() string {
+	return "The kitten loves to play with her ball of yarn!"
+}
